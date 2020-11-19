@@ -1,8 +1,11 @@
 # hgraph-design
-A collection of designs for hGraph (past, present, future).
+A collection of hGraph related designs (past, present, future).
 
-## License
-hGraph is Apache 2.0 licensed.
+### Core Contributors ###
+Founders/Designers: [GoInvo](http://www.goinvo.com/) is a digital design studio in Boston, crafting the future of healthcare through strategy, creativity, and vision.
 
-## Questions
-hgraph@goinvo.com
+### Contact Us ###
+[hgraph@goinvo.com](mailto:hgraph@goinvo.com)
+
+### License ###
+hGraph is [Apache 2.0](https://github.com/goinvo/hGraph/blob/master/LICENSE) licensed.
